@@ -144,7 +144,7 @@ const UserSidebar = memo(({ selectedUser, onSelectUser, isMobileOpen, onCloseMob
                         {user.username}
                       </p>
                       <p className="text-xs text-gray-500 truncate">
-                        {user.email}
+                       
                       </p>
                     </div>
 
